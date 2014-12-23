@@ -1,0 +1,70 @@
+body
+{
+	background-image: url('../images/highway.jpg');
+	background-size: cover;
+}
+.modal-content
+{
+	 background-image: url('../images/glass.jpg'); 
+	 background-size: cover;
+	 color:white;
+	 font-family: 'Roboto',sans-serif;
+	 font-weight:400;
+	 font-style: italic;
+	 font-size: 1.1em;
+}
+#chosenPhone:focus
+{
+	utline: none !important;
+    border:2.3px solid blue;
+    box-shadow: 0 0 10px #719ECE;
+}
+#chosenGender:focus
+{
+	utline: none !important;
+    border:2.3px solid blue;
+    box-shadow: 0 0 10px #719ECE;
+}
+#chosenFathersName:focus
+{
+	utline: none !important;
+    border:2.3px solid blue;
+    box-shadow: 0 0 10px #719ECE;
+}
+#chosenEmail:focus
+{
+	utline: none !important;
+    border:2.3px solid blue;
+    box-shadow: 0 0 10px #719ECE;
+}
+#chosenDob:focus
+{
+	utline: none !important;
+    border:2.3px solid blue;
+    box-shadow: 0 0 10px #719ECE;
+}
+#chosenAddress:focus
+{
+	utline: none !important;
+    border:2.3px solid blue;
+    box-shadow: 0 0 10px #719ECE;
+}
+.ui-datepicker
+{
+  	width: 216px;  
+    height: auto;  
+    margin: 5px auto 0;  
+    font: 9pt Arial, sans-serif;  
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .5);  
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .5);  
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .5);  
+}
+.ui-datepicker-header {   
+   color: black;
+}  
+.unfilled
+    {
+    outline: none !important;
+    border:3px solid red;
+    box-shadow: 0 0 10px #719ECE;
+    }

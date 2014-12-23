@@ -1,0 +1,63 @@
+[
+    {
+        "firstName": "John Doe",
+        "image": "./images/image1.jpg",
+        "fathersName":"Man Doe",
+        "Nation":"America"
+    },
+   {
+        "firstName": "AB",
+        "image": "./images/image2.jpg",
+        "fathersName":"CD",
+        "Nation":"India"
+    },
+    {
+        "firstName": "EF",
+        "image": "./images/image3.jpg",
+        "fathersName":"GH",
+        "Nation":"China"
+    },
+    {
+        "firstName": "IJ",
+        "image": "./images/image4.jpg",
+        "fathersName":"KL",
+        "Nation":"Nepal"
+    },
+    {
+        "firstName": "MN",
+        "image": "./images/image5.jpg",
+        "fathersName":"OP",
+        "Nation":"Singapore"
+    },
+    {
+        "firstName": "QR",
+        "image": "./images/image6.jpg",
+        "fathersName":"ST",
+        "Nation":"Britain"
+    },
+    {
+        "firstName": "UV",
+        "image": "./images/image7.jpg",
+        "fathersName":"WX",
+        "Nation":"Finland"
+    },
+    {
+        "firstName": "YZ",
+        "image": "./images/image8.jpg",
+        "fathersName":"Man Doe",
+        "Nation":"Germany"
+    },
+    {
+        "firstName": "ABC",
+        "image": "./images/image9.jpg",
+        "fathersName":"DEF",
+        "Nation":"Hungary"
+    },
+    {
+        "firstName": "ABCDE",
+        "image": "./images/image10.jpg",
+        "fathersName":"FGHIK",
+        "Nation":"Russia"
+    },
+
+]

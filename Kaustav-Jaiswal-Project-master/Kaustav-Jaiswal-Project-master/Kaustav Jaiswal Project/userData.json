@@ -1,0 +1,111 @@
+[ {
+  "Address" : "America",
+  "Attendance" : "99%",
+  "Dob" : "1/1/1",
+  "Email" : "john@yahoo.com",
+  "FathersName" : "Man Doe",
+  "Number":"1234567899",
+  "FeePaid" : "Yes",
+  "Gender" : "Male",
+  "Name" : "John Doe",
+  "Score" : "96%"
+}, {
+  "Address" : "America",
+  "Attendance" : "30%",
+  "Dob" : "2/2/2",
+  "Email" : "mary@yahoo.com",
+  "FathersName" : "Harry Jane",
+  "Number":"1234567899",
+  "FeePaid" : "No",
+  "Gender" : "Female",
+  "Name" : "Mary Jane",
+  "Score" : "50%"
+}, {
+  "Address" : "Hogwarts",
+  "Attendance" : "100%",
+  "Dob" : "3/3/3",
+  "Email" : "harry@microsoft.com",
+  "FathersName" : "James Potter",
+  "Number":"1234567899",
+  "FeePaid" : "Yes",
+  "Gender" : "Male",
+  "Name" : "Harry Potter",
+  "Score" : "99%"
+}, {
+  "Address" : "London",
+  "Attendance" : "100%",
+  "Dob" : "4/4/4",
+  "Email" : "sherlock@bing.com",
+  "FathersName" : "Daddy Holmes",
+  "Number":"1234567899",
+  "FeePaid" : "No",
+  "Gender" : "Male",
+  "Name" : "Sherlock Holmes",
+  "Score" : "99.9%"
+}, {
+  "Address" : "America",
+  "Attendance" : "100%",
+  "Dob" : "5/5/5",
+  "Email" : "sheldon@crazyscientist.com",
+  "FathersName" : "Crazy Cooper",
+  "FeePaid" : "No",
+  "Number":"1234567899",
+  "Gender" : "Male",
+  "Name" : "Sheldon Cooper",
+  "Score" : "100%"
+}, {
+  "Address" : "India",
+  "Attendance" : "100%",
+  "Dob" : "6/6/6",
+  "Email" : "leonard@sensiblescientist.com",
+  "FathersName" : "Father Hoffstader",
+  "Number":"1234567899",
+  "FeePaid" : "No",
+  "Gender" : "Male",
+  "Name" : "Leonard Hoffstader",
+  "Score" : "96.5%"
+}, {
+  "Address" : "India",
+  "Attendance" : "96%",
+  "Dob" : "7/7/7",
+  "Email" : "bunny@bugsbunny.com",
+  "Number":"1234567899",
+  "FathersName" : "Sunny",
+  "FeePaid" : "Yes",
+  "Gender" : "Male",
+  "Name" : "Bunny",
+  "Score" : "95%"
+}, {
+  "Address" : "India",
+  "Attendance" : "99%",
+  "Dob" : "8/8/8",
+  "Email" : "sweety@looneytunes.com",
+  "FathersName" : "Big Man",
+  "Number":"1234567899",
+  "FeePaid" : "No",
+  "Gender" : "Male",
+  "Name" : "Sweety",
+  "Score" : "96%"
+}, {
+  "Address" : "China",
+  "Attendance" : "99%",
+  "Dob" : "9/9/9",
+  "Email" : "hell@nowhere.com",
+  "Number":"1234567899",
+  "FathersName" : "In a Shell",
+  "FeePaid" : "Yes",
+  "Gender" : "Male",
+  "Name" : "Hell",
+  "Score" : "96%"
+}, {
+  "Address" : "India",
+  "Attendance" : "97%",
+  "Dob" : "6/12/1994",
+  "Email" : "kaustavj@yahoo.com",
+  "Number":"9791181538",
+  "FathersName" : "Navin Jaiswal",
+  "FeePaid" : "Yes",
+  "Gender" : "Male",
+  "Name" : "Kaustav Jaiswal",
+  "Score" : "96.7%"
+} ]

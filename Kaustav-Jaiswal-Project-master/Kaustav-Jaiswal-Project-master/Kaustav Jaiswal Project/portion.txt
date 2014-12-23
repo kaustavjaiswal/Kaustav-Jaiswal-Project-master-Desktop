@@ -1,0 +1,136 @@
+<div class="container">
+<div class="rowv row-1">
+   <nav class="navbar navbar-fixed-top mainNavBar" role="navigation">
+   <div class="col-md-2 col-xs-3">
+
+   <div class="navbar-header">
+ 
+      <a class="navbar-brand brandLogo" href="#"><img class="img-responsive" src="img/brandLogo.png"></a>
+   </div>
+
+   </div>
+   <div class="col-md-5 pull-right">
+   <button type="button" class="navbar-toggle" data-toggle="collapse" 
+         data-target="#example-navbar-collapse">
+         <span class="sr-only">Toggle navigation</span>
+         <i class="fa fa-bars"></i>
+      </button>
+   <div class="navbar-collapse collapse" id="example-navbar-collapse">
+      <ul class="nav navbar-nav pull-right">
+         <li><a href="#">About Us</a></li>
+         <li><a href="#">Search Student Database</a></li>            
+		 <li><a href="#">Contact Us</a></li>    
+         </ul>
+         </li>
+      </ul>
+   </div>
+</nav>
+</div>
+</div>
+<img src="img/brandLogo.png">
+<div class="container">
+<div class="banner">
+<h1 class="bannerLineMain">We help you to get certified, not just train</h1>
+<div class="bannerContent">Cras at erat vel erat semper luctus nec sed dui. Pellentesque interdum velit ut placerat pharetra. Fusce pellentesque dapibus iaculis. Morbi sed rutrum augue. Aliquam massa urna, feugiat sed tempor ut.</div>
+</div>
+<div class="blueButtons">
+<ul class="list-inline text-center">
+<li><a href="UrlBlockedError.aspx" target="_blank">Handshake</a> </li><li><a href="UrlBlockedError.aspx" target="_blank">PMI</a> </li><li><a href="UrlBlockedError.aspx" target="_blank">SCRUM</a> </li><li><a href="UrlBlockedError.aspx" target="_blank">PBA </a></li><li><a href="UrlBlockedError.aspx" target="_blank">CSD </a></li></ul>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="arrow text-center"><a href="UrlBlockedError.aspx" target="_blank"><i class="fa fa-chevron-down fa-2x arrowEffects"></i></a></div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="text-left" style="margin-left:60px"><i class="fa fa-quote-left fa-3x quoteEffects"></i></div>
+</div>
+<div class="row testimonial">
+<div class="testimonialImage text-left  col-md-1"><img> </div>
+<div class="testimonialContent text-center col-md-9 pull-right">
+<p>We aim to produce hardcore management professionals who just not perform the backend job but have potential and knowledge to take up the project responsibilities ...
+</p>
+</div>
+</div>
+</div>
+<div class="sectionBack">
+<div class="container">
+<div class="row sections">
+<div class="blogPosts col-lg-3">
+<h5 class="underLineEffects">Latest Blog Posts</h5>
+<ul class="list-unstyled">
+<li><img><a href="UrlBlockedError.aspx" class="imageText" target="_blank">Histogram as a Component of Seven Basic Quality Tool</a>
+</li><li><img><a href="UrlBlockedError.aspx" class="imageText" target="_blank">iZenBridge PMP&reg; Exam Series How to Calculate
+</a></li><li><img><a href="UrlBlockedError.aspx" class="imageText" target="_blank">A Brief Study into 3 Phases Of Test Driven Development
+</a></li></ul>
+</div>
+<div class="blogPosts col-lg-3">
+<h5 class="underLineEffects">iZenBridgeForum</h5>
+<ul class="lists">
+<li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">How To Fill Work Exp. Details In PMP&reg; Application</a>
+</li><li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">June 14, PMP Webinar on Procurement Management in real world</a>
+</li><li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">Quampus azure migration will happen sometime in next 48 hrs</a>
+</li><li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">PMI ACP - How many questions should we answer correctly?</a>
+</li></ul>
+</div>
+<div class="blogPosts col-lg-3">
+<h5 class="underLineEffects">Webinars</h5>
+<ul class="lists">
+<li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">Exclusive PMP&reg; Clarification Session</a>
+</li><li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">Exclusive PMI-ACP&reg; Clarification Session</a>
+</li><li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">Exclusive PMI-ACP&reg; Clarification Session</a>
+</li><li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">Exclusive PMI-ACP&reg; Clarification Session</a>
+</li><li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">Exclusive PMI-ACP&reg; Clarification Session</a>
+</li></ul>
+</div>
+<div class="blogPosts col-lg-3">
+<h5 class="underLineEffects">Upcoming Events</h5>
+<ul class="lists">
+<li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">PMP&reg; Training in Bangalore by iZenBridge-3 Day Weekend Training
+</a><br>
+<i class="fa fa-calendar"></i>&nbsp;<span>21/06/2012-28/06/2014</span><br>
+<i class="fa fa-clock-o"></i>&nbsp;<span>9:30 am-5:30 pm</span><br>
+<i class="fa  fa-map-marker" style="line-height:"></i>&nbsp;<span> Hotel Mapple Express, Mahadevapura, Whitefield, Bangalore Karnataka, India</span>
+</li><li class="generalList"><a href="UrlBlockedError.aspx" target="_blank">PMP&reg; Training in Bangalore by iZenBridge-3 Day Weekend Training
+</a><br>
+<i class="fa fa-calendar"></i>&nbsp;<span>21/06/2012-28/06/2014</span><br>
+<i class="fa fa-clock-o"></i>&nbsp;<span>9:30 am-5:30 pm</span><br>
+file:///C:/Users/KJ0C49211/Desktop/Kaustav%20Jaiswal%20Project/studentDatabase.html
+<i class="fa  fa-map-marker"></i>&nbsp;<span> Hotel Mapple Express, Mahadevapura, Whitefield, Bangalore Karnataka, India</span>
+</li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="container">
+<div class="row lastRow">
+<div class="footers col-lg-3">
+<h5 class="underLineEffects">About iZenBridge</h5>
+<ul class="list-unstyled">
+<li>Footer Link 1<sup>st</sup> item </li><li>Footer Link 2<sup>nd</sup> item </li><li>Footer Link 3<sup>rd</sup> item </li><li>Footer Link 4<sup>th</sup> item </li></ul>
+</div>
+<div class="footers col-lg-3">
+<h5 class="underLineEffects">Explore More</h5>
+<ul class="list-unstyled">
+<li>Footer Link 1<sup>st</sup> item </li><li>Footer Link 2<sup>nd</sup> item </li><li>Footer Link 3<sup>rd</sup> item </li><li>Footer Link 4<sup>th</sup> item </li></ul>
+</div>
+<div class="footers1 col-lg-3">
+<h5 class="underLineEffects">Socialize with us</h5>
+<ul class="list-inline">
+<li><a href="UrlBlockedError.aspx" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a></li><li><a href="UrlBlockedError.aspx" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a></li><li><a href="UrlBlockedError.aspx" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a></li><li><a href="UrlBlockedError.aspx" target="_blank"><i class="fa fa-skype fa-3x"></i></a></li></ul>
+</div>
+<div class="footers2 col-lg-3">
+<p>Pellentesque interdum velit ut placerat pharetra. Fusce pellentesque dapibus iaculis.
+<br>
+INDIA: &#43;91-9872437249 <br>
+Other: Fusce pellentesque dapibus iaculis.</p>
+</div>
+</div>
+</div>
+</div>
+</body> 
+</html>

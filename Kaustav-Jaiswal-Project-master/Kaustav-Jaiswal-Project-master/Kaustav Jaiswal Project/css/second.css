@@ -1,0 +1,168 @@
+body
+{
+	background-image: url("../img/secondBg.jpg");
+	background-size: cover;
+	min-height: 100%;
+}
+.space
+{
+	padding-top:5%; 
+}
+.signUpPlace
+{
+	padding-top: 5%;	
+}
+#signUpBtn
+{
+    min-width: 66%;
+	background-color: green;
+	color: white;
+}
+.logonData
+{
+	margin: 10% 30% 10% 30%;
+	text-align: center;
+	padding: 3%;
+	background-image: url("../img/loginBack.jpg");
+	background-size: cover;
+	border-radius: 50px 0px;
+
+}
+.loginButton1
+{
+	padding-bottom: 10%;
+}
+.loginButton2
+{
+	padding-bottom: 10%;
+}
+#loginB,#signUp,#goBack
+{
+	min-width: 60%;
+}
+
+.header{
+	position: relative;
+	top: calc(50% - 35px);
+	left: calc(50% - 255px);
+	z-index: 2;
+}
+
+.header div{
+	float: left;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 35px;
+	font-weight: 200;
+}
+
+.header div span{
+	color: green !important;
+}
+
+.login{
+	position: relative;
+	top: calc(50% - 75px);
+	left: calc(50% - 50px);
+	height: 150px;
+	width: 350px;
+	padding: 10px;
+	z-index: 2;
+}
+.form-horizontal
+{
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: black;
+	position: relative;
+	padding-top: 14%;
+}
+
+.login input[type=text]{
+	width: 250px;
+	height: 30px;
+	background: transparent;
+	border: 1px solid black;
+	border-radius: 2px;
+	color: black;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+}
+
+.login input[type=password]{
+	width: 250px;
+	height: 30px;
+	background: transparent;
+	border: 1px solid black;
+	border-radius: 2px;
+	color: black;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+	margin-top: 10px;
+}
+
+#loginBtn
+{
+	width: 260px;
+	height: 35px;
+	background: green;
+	border: 1px solid #fff;
+	cursor: pointer;
+	border-radius: 2px;
+	color: white;
+	text-align: center;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 6px;
+	margin-top: 10px;
+}
+
+.login input[type=button-primary]:hover{
+	opacity: 1.0;
+	color:black;
+}
+
+.login input[type=button]:active{
+	opacity: 0.9;
+}
+
+.login input[type=text]:focus{
+	border: 1px solid blue;
+	color: black;
+}
+
+.login input[type=password]:focus{
+	border: 1px solid blue;
+	color:black;
+}
+
+.login input[type=button]:focus{
+	outline: none;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    red !important;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    red !important;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    red !important;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:    red !important;
+}
+
+
+.wrong-password
+{
+	visibility: hidden;
+}
